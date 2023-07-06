@@ -8,26 +8,32 @@ export const ProjectList = [
 {
     name:'Ecommerce',
     image : Project1,
+    skills:'HTML , CSS , ReactJS , NodeJS , MaterialUI'
 },
 {
     name:'Social Media',
     image : Project2,
+    skills:'HTML , CSS , ReactJS , NodeJS , MaterialUI'
 },
 {
     name:'Netflix clone',
     image : Project3,
+    skills:'HTML , CSS , ReactJS , NodeJS , MaterialUI'
 },
 {
     name:'spotify clone',
     image : Project4,
+    skills:'HTML , CSS , ReactJS , NodeJS , MaterialUI'
 },
 {
     name:'Pets food shop',
     image : Project5,
+    skills:'HTML , CSS , ReactJS , NodeJS , MaterialUI'
 },
 {
     name:'Pets food shop',
     image : Project5,
+    skills:'HTML , CSS , ReactJS , NodeJS , MaterialUI'
 },
 
 ]
