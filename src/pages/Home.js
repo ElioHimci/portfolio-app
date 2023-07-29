@@ -27,7 +27,7 @@ function Home() {
         </li>
         <li className='item'>
           <h2> Back-End</h2>
-          <span> MySQL, MongoDB, Firebase 
+          <span> MySQL, MongoDB, Firebase, C#, .NET
           </span>
         </li>
         <li className='item'>
